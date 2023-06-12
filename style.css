@@ -1,0 +1,429 @@
+.Pasek {
+    background-color: red;
+    padding: 20px;
+    font-size: 20px;
+    border: 2px solid blue;
+  }
+.Golf4{
+  margin-top: 50px;
+  height: 25%;
+  width: 75%;
+  margin-left: 0%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: rgb(246, 127, 53);
+}
+.Golf4Zdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.G4opis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.btn{
+  display:flex;
+  justify-content: center;
+  width: 50%;
+  margin-left:27%;
+}
+.PassatB4{
+  margin-top: 50px;
+  height: 25%;
+  width: 75%;
+  margin-left: 25%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: rgb(246, 127, 53);
+}
+.PassatB4Zdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.PB4opis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.Polo12{
+  margin-top: 50px;
+  height: 25%;
+  width: 75%;
+  margin-left: 0%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: rgb(246, 127, 53);
+}
+.Polo12Zdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.P12opis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.AstraIII{
+  margin-top: 50px;
+  height: 25%;
+  width: 75%;
+  margin-left: 25%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: rgb(246, 127, 53);
+}
+.AstraIIIZdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.AIIIopis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.Astra2010{
+  margin-top: 50px;
+  height: 25%;
+  width: 75%;
+  margin-left: 0%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: rgb(246, 127, 53);
+}
+.Astra2010Zdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.A2010opis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.AstraST{
+  margin-top: 50px;
+  height: 25%;
+  width: 75%;
+  margin-left: 25%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: rgb(246, 127, 53);
+}
+.AstraSTZdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.ASTopis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.RClioIV{
+  margin-top: 50px;
+  height: 25%;
+  width: 75%;
+  margin-left: 0%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: rgb(246, 127, 53);
+}
+.RClioIVZdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.RCIVopis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.RTrafic{
+  margin-top: 50px;
+  height: 25%;
+  width: 75%;
+  margin-left: 25%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: rgb(246, 127, 53);
+}
+.RTraficZdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.RTopis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.RLaguna{
+  margin-top: 50px;
+  height: 25%;
+  width: 75%;
+  margin-left: 0%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: rgb(246, 127, 53);
+}
+.RLagunaZdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.RLopis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.AA4{
+  margin-top: 50px;
+  height: 25%;
+  width: 75%;
+  margin-left: 25%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: rgb(246, 127, 53);
+}
+.AA4Zdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.AA4opis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.AA6{
+  margin-top: 50px;
+  height: 25%;
+  width: 75%;
+  margin-left: 0%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: rgb(246, 127, 53);
+}
+.AA6Zdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.AA6opis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.AA3{
+  margin-top: 50px;
+  height: 25%;
+  width: 75%;
+  margin-left: 25%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: rgb(246, 127, 53);
+}
+.AA3Zdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.AA3opis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.SFabia{
+  margin-top: 50px;
+  height: 25%;
+  width: 75%;
+  margin-left: 0%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: rgb(246, 127, 53);
+}
+.SFabiaZdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.SFopis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.SOctavia{
+  margin-top: 50px;
+  height: 25%;
+  width: 75%;
+  margin-left: 25%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: rgb(246, 127, 53);
+}
+.SOctaviaZdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.SOopis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.SFelicia{
+  margin-top: 50px;
+  height: 25%;
+  width: 75%;
+  margin-left: 0%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: rgb(246, 127, 53);
+}
+.SFeliciaZdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.SFeopis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.BMWE39{
+  margin-top: 50px;
+  height: 25%;
+  width: 75%;
+  margin-left: 25%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: rgb(246, 127, 53);
+}
+.BMWE39Zdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.BE39opis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.BMWX3{
+  margin-top: 50px;
+  height: 25%;
+  width: 75%;
+  margin-left: 0%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: rgb(246, 127, 53);
+}
+.BMWX3Zdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.BX3opis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.BMW320i{
+  margin-top: 50px;
+  height: 25%;
+  width: 75%;
+  margin-left: 25%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: rgb(246, 127, 53);
+}
+.BMW320iZdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.B320iopis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+body{
+  background-color: rgb(252, 127, 127);
+}

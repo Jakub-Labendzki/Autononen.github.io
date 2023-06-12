@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Komis samochodowy</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">  <!--Bootstrap-->
+    <script src="main.js"></script>
+</head>
+<body>
+    <div class="Pasek">
+
+        <label>Marka:</label>
+        <select name="cars" id="cars" onchange="selection()">
+            <option value="all">Wszystkie</option>
+            <option value="volkswagen">Toyota</option>
+            <option value="opel">Ford</option>
+            <option value="renault">Mercedes</option>
+            <option value="audi">Audi</option>
+            <option value="skoda">Honda</option>
+            <option value="bmw">BMW</option>
+        </select>
+        <span style="font-size: x-large"><center>Autononen.pl</center></span>
+    </div>
+    <div class="cars volkswagen">
+            <div class="Golf4">
+                <div>
+                    <img src="Volkswagen/Golf4.png" class="Golf4Zdj">
+                </div>
+                <div>
+                    <p class="G4opis">
+                    Marka: Toyota<br>
+                    Model: Camry <br>
+                    Rocznik: 2023 <br>
+                    Moc: 300 KM <br>
+                    Pojemność silnika : 2500 cm³<br>
+                    Cena : 62 900 PLN<br>
+                    Paliwo : Hybryda <br></p>
+                    <a href="Golf4.html" class="btn btn-primary">Zakup</a>
+                </div>
+            </div>
+            <div class="PassatB4">
+                <div>
+                    <img src="Volkswagen/PassatB4.png" class="PassatB4Zdj">
+                </div>
+                <div>
+                    <p class="PB4opis">
+                    Marka: Toyota<br>
+                    Model: Yaris Cross <br>
+                    Rok produkcji: 2020 <br>
+                    Moc silnika: 125 KM <br>
+                    Pojemność silnika : 1490 cm³<br>
+                    Cena : 90 900 PLN <br>
+                    Paliwo: Hybryda <br></p>
+                    <a href="PassatB4.html" class="btn btn-primary">Zakup</a>
+                </div>
+            </div>
+            <div class="Polo12">
+                <div>
+                    <img src="Volkswagen/Polo1.2.png" class="Polo12Zdj">
+                </div>
+                <div>
+                    <p class="P12opis">
+                    Marka: Toyota<br>
+                    Model: Auris <br>
+                    Rok produkcji: 2006 <br>
+                    Moc silnika: 136 KM <br>
+                    Pojemność silnika: 1598 cm³<br>
+                    Cena: 16 500 PLN <br>
+                    Paliwo: Benzyna <br></p>
+                    <a href="Polo1.2.html" class="btn btn-primary">Zakup</a>
+                </div>
+            </div>
+    </div>
+    <div class="cars opel">
+        <div class="AstraIII">
+            <div>
+                <img src="Opel/AstraIII.png" class="AstraIIIZdj">
+            </div>
+            <div>
+                <p class="AIIIopis">
+                Marka: Ford <br>
+                Model: Mustang <br>
+                Rok produkcji: 2022  <br>
+                Moc silnika: 700 KM <br>
+                Pojemność silnika: 3726 cm³<br>
+                Cena: 159 000 PLN <br>
+                Paliwo : Benzyna <br></p>
+                <a href="AstraIII.html" class="btn btn-primary">Zakup</a>
+            </div>
+        </div>
+        <div class="Astra2010">
+            <div>
+                <img src="Opel/Astra2010.png" class="Astra2010Zdj">
+            </div>
+            <div>
+                <p class="A2010opis">
+                Marka: Ford<br>
+                Model: Kuga <br>
+                Rok produkcji: 2008 <br>
+                Moc silnika: 200 KM <br>
+                Pojemność silnika: 1497 cm³<br>
+                Cena: 89 999 PLN <br>
+                Paliwo: Benzyna <br></p>
+                <a href="Astra2010.html" class="btn btn-primary">Zakup</a>
+            </div>
+        </div>
+        <div class="AstraST">
+            <div>
+                <img src="Opel/AstraSportsTourer.png" class="AstraSTZdj">
+            </div>
+            <div>
+                <p class="ASTopis">
+                Marka: Ford<br>
+                Model: Fiesta <br>
+                Rok produkcji: 2011 <br>
+                Moc silnika: 200 KM <br>
+                Pojemność silnika: 1242 cm³<br>
+                Cena: 86 800 PLN<br>
+                Paliwo: Diesel <br></p>
+                <a href="AstraST.html" class="btn btn-primary">Zakup</a>
+            </div>
+        </div>
+    </div>
+    <div class="cars renault">
+        <div class="RClioIV">
+            <div>
+                <img src="Renault/ClioIV.png" class="RClioIVZdj">
+            </div>
+            <div>
+                <p class="RCIVopis">
+                Marka: Mercedes-Benz<br>
+                Model: Klasa C <br>
+                Rok produkcji: 2023 <br>
+                Moc silnika: 500 KM <br>
+                Pojemność silnika: 1796 cm³<br>
+                Cena: 383 200 PLN<br>
+                Paliwo: Diesel <br></p>
+                <a href="ClioIV.html" class="btn btn-primary">Zakup</a>
+            </div>
+        </div>
+        <div class="RTrafic">
+            <div>
+                <img src="Renault/Trafic.png" class="RTraficZdj">
+            </div>
+            <div>
+                <p class="RTopis">
+                Marka: Mercedes-Benz<br>
+                Model: Klasa E<br>
+                Rok produkcji: 1993<br>
+                Moc silnika: 577 KM <br>
+                Pojemność silnika: 1991 cm³<br>
+                Cena: 241 300 PLN<br>
+                Paliwo: Benzyna <br></p>
+                <a href="Trafic.html" class="btn btn-primary">Zakup</a>
+            </div>
+        </div>
+        <div class="RLaguna">
+            <div>
+                <img src="Renault/Laguna.png" class="RLagunaZdj">
+            </div>
+            <div>
+                <p class="RLopis">
+                Marka: Mercedes-Benz<br>
+                Model: Klasa A<br>
+                Rok produkcji: 2007<br>
+                Moc silnika: 109 KM <br>
+                Pojemność silnika: 1461 cm³<br>
+                Cena: 127 800 PLN <br>
+                Paliwo: Diesel <br></p>
+                <a href="Laguna.html" class="btn btn-primary">Zakup</a>
+            </div>
+        </div>
+    </div>
+    <div class="cars audi">
+        <div class="AA4">
+            <div>
+                <img src="Audi/A4.png" class="AA4Zdj">
+            </div>
+            <div>
+                <p class="AA4opis">
+                Marka: Audi<br>
+                Model: A4<br>
+                Rok produkcji: 2022 <br>
+                Moc silnika: 400 KM <br>
+                Pojemność silnika: 2 000 cm³<br>
+                Cena: 227 174 PLN<br>
+                Paliwo: Diesel <br></p>
+                <a href="A4.html" class="btn btn-primary">Zakup</a>
+            </div>
+        </div>
+        <div class="AA6">
+            <div>
+                <img src="Audi/A6.png" class="AA6Zdj">
+            </div>
+            <div>
+                <p class="AA6opis">
+                Marka: Audi<br>
+                Model: Q5<br>
+                Rok produkcji: 2008 <br>
+                Moc silnika: 211KM <br>
+                Pojemność silnika: 1968 cm³<br>
+                Cena: 211 100 PLN<br>
+                Paliwo: Benzyna <br></p>
+                <a href="A6.html" class="btn btn-primary">Zakup</a>
+            </div>
+        </div>
+        <div class="AA3">
+            <div>
+                <img src="Audi/A3.png" class="AA3Zdj">
+            </div>
+            <div>
+                <p class="AA3opis">
+                Marka: Audi<br>
+                Model: B4<br>
+                Rok produkcji: 1973 <br>
+                Moc silnika: 70 KM <br>
+                Pojemność silnika: 1781 cm³<br>
+                Cena: 5 999 PLN<br>
+                Paliwo: Benzyna <br></p>
+                <a href="A3.html" class="btn btn-primary">Zakup</a>
+            </div>
+        </div>
+    </div>
+    <div class="cars skoda">
+        <div class="SFabia">
+            <div>
+                <img src="Skoda/fabia.png" class="SFabiaZdj">
+            </div>
+            <div>
+                <p class="SFopis">
+                Marka: Honda<br>
+                Model: Civic<br>
+                Rok produkcji: 2023 <br>
+                Moc silnika: 300 KM <br>
+                Pojemność silnika: 1799 cm³<br>
+                Cena: 72 000 PLN<br>
+                Paliwo: Benzyna <br></p>
+                <a href="fabia.html" class="btn btn-primary">Zakup</a>
+            </div>
+        </div>
+        <div class="SOctavia">
+            <div>
+                <img src="Skoda/Octavia.png" class="SOctaviaZdj">
+            </div>
+            <div>
+                <p class="SOopis">
+                Marka: Honda<br>
+                Model: Cr-v<br>
+                Rok produkcji: 2022 <br>
+                Moc silnika: 160 KM <br>
+                Pojemność silnika: 1997 cm³<br>
+                Cena: 80 900 PLN<br>
+                Paliwo: Diesel <br></p>
+                <a href="Octavia.html" class="btn btn-primary">Zakup</a>
+            </div>
+        </div>
+        <div class="SFelicia">
+            <div>
+                <img src="Skoda/Felicia.png" class="SFeliciaZdj">
+            </div>
+            <div>
+                <p class="SFeopis">
+                Marka: Honda<br>
+                Model: Jazz<br>
+                Rok produkcji: 2020 <br>
+                Moc silnika: 109 KM <br>
+                Pojemność silnika: 1498 cm³<br>
+                Cena: 86 940 PLN <br>
+                Paliwo: Benzyna <br></p>
+                <a href="Felicia.html" class="btn btn-primary">Zakup</a>
+            </div>
+        </div>
+    </div>
+    <div class="cars bmw">
+        <div class="BMWE39">
+            <div>
+                <img src="BMW/e39.png" class="BMWE39Zdj">
+            </div>
+            <div>
+                <p class="BE39opis">
+                Marka: BMW<br>
+                Model: Seria 3<br>
+                Rok produkcji: 2022 <br>
+                Moc silnika: 500 KM  <br>
+                Pojemność silnika: 1995 cm³<br>
+                Cena: 497 000 PLN <br>
+                Paliwo: Benzyna <br></p>
+                <a href="e39.html" class="btn btn-primary">Zakup</a>
+            </div>
+        </div>
+        <div class="BMWX3">
+            <div>
+                <img src="BMW/X3.png" class="BMWX3Zdj">
+            </div>
+            <div>
+                <p class="BX3opis">
+                Marka: BMW<br>
+                Model: X5<br>
+                Rok produkcji: 2018 <br>
+                Moc silnika: 381 KM <br>
+                Pojemność silnika: 2993 cm³<br>
+                Cena: 312 000 PLN <br>
+                Paliwo: Benzyna <br></p>
+                <a href="X3.html" class="btn btn-primary">Zakup</a>
+            </div>
+        </div>
+        <div class="BMW320i">
+            <div>
+                <img src="BMW/320i.png" class="BMW320iZdj">
+            </div>
+            <div>
+                <p class="B320iopis">
+                    Marka: BMW<br>
+                    Model: i8<br>
+                    Rok produkcji: 2014 <br>
+                    Moc silnika: 231 KM <br>
+                    Pojemność silnika: 1499 cm³<br>
+                    Cena: 500 000 PLN <br>
+                    Paliwo: Benzyna <br></p>
+                    <a href="320i.html" class="btn btn-primary">Zakup</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
